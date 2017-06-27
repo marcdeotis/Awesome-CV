@@ -1,20 +1,15 @@
-# Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+# Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/marcdeotis/Awesome-CV/master/resume.pdf)
 
+This older copy of Awesome CV was sourced from www.sharelatex.com
 
-[**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+[**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** created by [**posquit0**](https://github.com/posquit0/) and inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 
 ## Preview
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/marcdeotis/Awesome-CV/master/resume.pdf)
 
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)
-
-## Cover Letter
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
-
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)
+![alt tag](https://raw.githubusercontent.com/marcdeotis/Awesome-CV/master/resume-1.png)
+![alt tag](https://raw.githubusercontent.com/marcdeotis/Awesome-CV/master/resume-2.png)
 
 ## Quick Start
 
@@ -52,11 +47,3 @@ You can find out more about it here: [LaTeX Project](http://www.latex-project.or
 
 ### Source Sans Pro
 [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
-
-
-## Contact
-You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
-
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
-
-Good luck!
